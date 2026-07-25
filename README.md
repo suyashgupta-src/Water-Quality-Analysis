@@ -183,7 +183,7 @@ The notebook contains:
 **Suyash Gupta**
 
 - GitHub: https://github.com/suyashgupta-src
-- LinkedIn: *Add your LinkedIn profile here*
+- LinkedIn: **
 
 ---
 
